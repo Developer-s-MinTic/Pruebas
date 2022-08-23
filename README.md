@@ -1,3 +1,0 @@
-# Git & github
-
-Primer proyecto
